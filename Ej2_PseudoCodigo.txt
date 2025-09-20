@@ -6,6 +6,6 @@ Inicio
 	Lee numero
 
 	Mientras (contador<=10) hacer
-		Escribe "numero x contador"
+		Escribe "numero*contador"
 		Contador++		
 Fin
